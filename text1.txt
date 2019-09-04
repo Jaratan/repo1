@@ -1,12 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 1416-FFB9
-
- Directory of C:\Users\rex\Desktop\myProject
-
-03-09-2019  19:39    <DIR>          .
-03-09-2019  19:39    <DIR>          ..
-03-09-2019  19:37    <DIR>          .git
-03-09-2019  19:39                 0 text1.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  133,167,239,168 bytes free
-hello
+changes
